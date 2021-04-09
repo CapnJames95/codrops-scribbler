@@ -1,0 +1,12 @@
+{
+  "name": "MiniMacro5",
+  "vendorId": "0xCEEB",
+  "productId": "0x0007",
+  "lighting": "none",
+  "matrix": { "rows": 5, "cols": 5 },
+  "layouts": {
+    "keymap": [
+      ["0,0", "0,1", "0,2", "0,3", "0,4"]
+    ]
+  }
+}

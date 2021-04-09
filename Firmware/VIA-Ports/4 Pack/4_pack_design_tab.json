@@ -1,0 +1,15 @@
+{
+    "name": "4 Pack",
+    "vendorId": "0xFEED",
+    "productId": "0x6969",
+    "lighting": "none",
+    "matrix": {
+        "rows": 1,
+        "cols": 4
+    },
+    "layouts": {
+        "keymap": [
+            [{"x":0, "y":0}, {"x":1, "y":0}, {"x":2, "y":0}, {"x":3, "y":0}]
+        ]
+    }
+}
